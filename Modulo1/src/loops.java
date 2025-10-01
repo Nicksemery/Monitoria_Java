@@ -1,10 +1,12 @@
 import java.util.Scanner;
 
 public class loops {
+
+    public static final Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
-        var sc = new Scanner(System.in);
 
         //switch case
+        /*
         System.out.println("informe um número de 1 à 7");
         var opcao = sc.nextInt();
         switch (opcao) {
@@ -32,6 +34,7 @@ public class loops {
             default:
                 System.out.println("Opção invalida");
     }
+         */
 
         //do while
         /*
